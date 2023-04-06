@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Typescript, Next.js, and AWS Cloud.
 - 👯 I’m looking to collaborate on React front-end applications.
 - 💻 I'm open to job opportunities.
-- 🎮 I'm a gamer.
+- 🎮 Gaming enthusiast.
 
 
 ---
