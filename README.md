@@ -9,7 +9,6 @@
 - 🎮 Gaming enthusiast.
 
 
----
 # My Current Stack
 
 ## Design
@@ -48,11 +47,14 @@
 ## Code Editor
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
+
+
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wamwangi-mathenge&theme=blue-green&hide_border=false)](https://github.com/wamwangi-mathenge/github-readme-stats)
 
 
----
+
+
 
 ## 🔨 Currently Learning
 
@@ -76,7 +78,9 @@
     >
 </a>
 
----
+
+
+
 ## 🤝Let's Connect
 
 
