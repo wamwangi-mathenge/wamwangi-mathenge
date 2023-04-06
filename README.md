@@ -69,7 +69,7 @@
 **☁️AWS Cloud**
 
 
-# ✉️Reach Out
+# ✉️ Reach Out
 <a href="mailto:wamwangimathenge@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -80,7 +80,7 @@
 
 
 
-# 🤝Let's Connect
+# 🤝 Let's Connect
 
 
 <a href="https://www.linkedin.com/in/brian-mathenge-aa4981221/">
