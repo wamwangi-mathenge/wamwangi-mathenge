@@ -1,9 +1,9 @@
 # 🦁 Hi there, I'm Brian
 ### I am a Full-stack Software Developer
 
-## 👨‍💻Bio
-- 🔭 I’m currently working on Full Stack React applications using Rails API.
-- 🌱 I’m currently learning Typescript, Next.js, and AWS Cloud.
+# 👨‍💻Bio
+- 🔨 I’m currently working on Full Stack React applications using Rails API.
+- 🔭 I’m currently learning Typescript, Next.js, and AWS Cloud.
 - 👯 I’m looking to collaborate on React front-end applications.
 - 💻 I'm open to job opportunities.
 - 🎮 Gaming enthusiast.
@@ -56,7 +56,7 @@
 
 
 
-## 🔨 Currently Learning
+# 📕 Currently Learning
 
 **🖱️React JS**
 
@@ -69,7 +69,7 @@
 **☁️AWS Cloud**
 
 
-## ✉️Reach Out
+# ✉️Reach Out
 <a href="mailto:wamwangimathenge@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -80,7 +80,7 @@
 
 
 
-## 🤝Let's Connect
+# 🤝Let's Connect
 
 
 <a href="https://www.linkedin.com/in/brian-mathenge-aa4981221/">
