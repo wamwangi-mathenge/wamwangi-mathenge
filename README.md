@@ -10,7 +10,7 @@
 
 
 ---
-## My Current Stack
+# My Current Stack
 
 ## Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -68,7 +68,7 @@
 
 ---
 
-## 📧Reach Out
+## ✉️Reach Out
 <a href="mailto:wamwangimathenge@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
