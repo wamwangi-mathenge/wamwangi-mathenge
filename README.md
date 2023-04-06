@@ -4,7 +4,7 @@
 # 👨‍💻Bio
 - 🔨 I’m currently working on Full Stack React applications using Rails API.
 - 🔭 I’m currently learning Typescript, Next.js, and AWS Cloud.
-- 👯 I’m looking to collaborate on React front-end applications.
+- 👯 I’m looking to collaborate on React applications using Rails API.
 - 💻 I'm open to job opportunities.
 - 🎮 Gaming enthusiast.
 
