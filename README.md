@@ -69,7 +69,7 @@
 ---
 
 ## 📧Reach Out
-<a href="">
+<a href="mailto:wamwangimathenge@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="mailto:wamwangimathenge@gmail.com"
@@ -92,7 +92,7 @@
         alt=""
     >
 </a>
-<a href="https://twitter.com/_BrianMathenge">
+<a href="https://open.spotify.com/user/31nnkjaj4vytrf2nqpq2e44t6w3y?si=2354117e0ca94d4c">
     <img 
         src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
         alt=""
