@@ -1,5 +1,6 @@
 # 🦁 Hi there, I'm Brian
 ### I am a Full-stack Software Developer
+![GitHub Banner](./images/banner.png) 
 
 # 👨‍💻Bio
 - 🔨 I’m currently working on Full Stack React applications using Rails API.
