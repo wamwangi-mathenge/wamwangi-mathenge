@@ -4,14 +4,14 @@
 ### I am a Full-stack Software Developer and Cloud/DevOps Engineering Student
 
 
-## 👨‍💻Bio
+## ⚜️Bio
 - 🔨 I’m currently working on Full Stack React applications using Rails API.
 - 🔭 I’m currently learning Python (Django), AWS Cloud, Containerization and DevOps concepts such as CI/CD (Jenkins), IaC (Terraform/Ansible), Monitoring Tools (Prometheus & Grafana).
 - 💻 I'm open to job opportunities.
 - 🎮 Gaming enthusiast.
 
 
-## My Current Stack
+## 👨‍💻My Current Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
-## Blog
+## ✍🏽Blog
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
