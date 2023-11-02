@@ -46,9 +46,6 @@
 **🤵CI/CD with Jenkins**
 
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wamwangi-mathenge&theme=blue-green&hide_border=false)](https://github.com/wamwangi-mathenge/github-readme-stats)
-
 ## ✉️ Reach Out
 <a href="mailto:wamwangimathenge@gmail.com">
     <img 
